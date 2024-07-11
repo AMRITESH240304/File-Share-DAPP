@@ -1,0 +1,11 @@
+{
+  "name": "file_share",
+  "version": "1.0.0",
+  "description": "DAPP file share",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amritesh",
+  "license": "ISC"
+}
